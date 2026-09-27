@@ -1,10 +1,9 @@
 import './globals.css';
 import type { Metadata } from 'next';
-import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'TradePilot',
-  description: 'Trading platform dashboard'
+  title: 'Future Trades',
+  description: 'Future Trades trading platform dashboard'
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

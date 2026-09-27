@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation';
 
 export default function LoginPage() {
   const router = useRouter();
-  const [email, setEmail] = useState('alex@tradepilot.io');
+  const [email, setEmail] = useState('alex@futuretrades.io');
   const [password, setPassword] = useState('demo123');
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
@@ -42,9 +42,9 @@ export default function LoginPage() {
       <div className="grid w-full max-w-5xl overflow-hidden rounded-3xl border border-slate-800 bg-slate-900/80 shadow-glow backdrop-blur-xl md:grid-cols-2">
         <div className="space-y-8 bg-slate-950 p-8 md:p-12">
           <div className="flex items-center gap-3">
-            <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-emerald-500/20 text-lg font-bold text-emerald-400">T</div>
+            <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-emerald-500/20 text-lg font-bold text-emerald-400">F</div>
             <div>
-              <div className="text-xs uppercase tracking-[0.25em] text-emerald-400">TradePilot</div>
+              <div className="text-xs uppercase tracking-[0.25em] text-emerald-400">Future Trades</div>
               <div className="text-sm text-slate-300">Secure portfolio access</div>
             </div>
           </div>

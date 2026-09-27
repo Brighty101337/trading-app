@@ -58,7 +58,7 @@ export default function DashboardPage() {
       <div className="mx-auto max-w-7xl">
         <header className="mb-6 flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
           <div>
-            <p className="text-xs uppercase tracking-[0.3em] text-emerald-400">TradePilot</p>
+            <p className="text-xs uppercase tracking-[0.3em] text-emerald-400">Future Trades</p>
             <h1 className="text-3xl font-black">Trading dashboard</h1>
           </div>
 

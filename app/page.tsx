@@ -6,9 +6,9 @@ export default function HomePage() {
       <div className="w-full max-w-5xl rounded-3xl border border-slate-800 bg-slate-900/70 p-8 shadow-glow backdrop-blur-xl md:p-12">
         <div className="mb-8 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-emerald-500/20 text-lg font-bold text-emerald-400">T</div>
+            <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-emerald-500/20 text-lg font-bold text-emerald-400">F</div>
             <div>
-              <div className="text-xs uppercase tracking-[0.25em] text-emerald-400">TradePilot</div>
+              <div className="text-xs uppercase tracking-[0.25em] text-emerald-400">Future Trades</div>
               <div className="text-sm text-slate-300">AI-powered trading desk</div>
             </div>
           </div>

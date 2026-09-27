@@ -1,9 +1,9 @@
-# trading-app
+# Future Trades
 
-A full-stack-style trading dashboard built with Next.js, TypeScript, and Tailwind CSS.
+A full-stack style trading dashboard built with Next.js, TypeScript, and Tailwind CSS.
 
 Features:
-- Secure-style login screen
+- Secure login screen
 - Multi-asset market overview
 - Watchlist and portfolio section
 - Order ticket for buy/sell actions
@@ -29,4 +29,4 @@ npm run start
 ```
 
 ## Notes
-This project uses demo/mock data for trading workflows and is intended as a starter app or MVP product.
+This project uses demo/mock data for trading workflows and is intended as a starter app or MVP product for Future Trades.
